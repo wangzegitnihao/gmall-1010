@@ -4,7 +4,7 @@ target/
 *.md
 db
 docker-compose.yml
-
+mvnw/*
 
 # Compiled class file
 *.class
